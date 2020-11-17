@@ -2,11 +2,11 @@
 name: "ProjectVW.com"
 title: "ProjectVW.com - 1973 Volkswagen Super Beetle"
 description: "Have you seen my 1973 VW Super Beetle?"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo.jpg'
+favicon: 'assets/images/logo.jpg'
 baseurl: ""
 google_analytics: 'UA-69145-34'
-disqus: 'bicycletips'
+disqus: ''
 mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
@@ -17,7 +17,7 @@ authors:
     name: Chris Hammond
     display_name: Chris Hammond
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: bicycletips@christoc.com
+    email: projectvw@christoc.com
     web: https://chrishammond.com
     twitter: https://twitter.com/christoc
     description: "Founder of ProjectVW.com. Read more at ChrisHammond.com" 
