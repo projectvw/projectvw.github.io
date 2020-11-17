@@ -16,7 +16,7 @@ authors:
   Chris:
     name: Chris Hammond
     display_name: Chris Hammond
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    gravatar: bff097b7cc348bebce39ee1c7694d125
     email: projectvw@christoc.com
     web: https://chrishammond.com
     twitter: https://twitter.com/christoc
@@ -65,7 +65,7 @@ kramdown:
       line_numbers: true
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
-adsense: "enabled"
+adsense: "disabled"
 adsense-data-ad-client: "ca-pub-3356074518164779"
 adsense-data-ad-slot: ""
 
