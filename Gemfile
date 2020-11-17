@@ -19,8 +19,8 @@ group :jekyll_plugins do
     gem 'jekyll-paginate'
     gem 'jekyll-seo-tag'
     gem 'jekyll-archives'
-    gem 'kramdown'
-    gem 'rouge'
+    # gem 'kramdown'
+    # gem 'rouge'
     gem 'jekyll_picture_tag'
     gem 'jekyll-redirect-from'
 end
