@@ -91,8 +91,6 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   jekyll_picture_tag
-  kramdown
-  rouge
 
 BUNDLED WITH
    2.1.4
