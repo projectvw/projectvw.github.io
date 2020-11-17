@@ -13,13 +13,13 @@ permalink: /:title/
 
 # Authors
 authors:
-  Chris:
+  chris:
     name: Chris Hammond
     display_name: Chris Hammond
     gravatar: bff097b7cc348bebce39ee1c7694d125
     email: projectvw@christoc.com
     web: https://chrishammond.com
-    twitter: https://twitter.com/christoc
+    twitter: https://twitter.com/projectvw
     description: "Founder of ProjectVW.com. Read more at ChrisHammond.com" 
 
 #  john:
