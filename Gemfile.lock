@@ -83,6 +83,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  jekyll (~> 4)
   jekyll-archives
   jekyll-feed
   jekyll-paginate
@@ -90,8 +91,6 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   jekyll_picture_tag
-  kramdown (>= 2.3.0)
-  rouge
 
 BUNDLED WITH
    2.1.4
