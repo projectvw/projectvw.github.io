@@ -4,9 +4,9 @@ title: "ProjectVW.com"
 description: "Chris Hammond's 1973 VW Super Beetle"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 
+baseurl: ""
 google_analytics: 'UA-69145-34'
-disqus: 
+disqus: ""
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
