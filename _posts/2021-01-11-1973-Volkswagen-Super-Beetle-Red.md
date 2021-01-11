@@ -19,14 +19,14 @@ You can see the bra that I had on the car, I believe it was on it when we acquir
 
 If you look closely at the hubcaps, you can see I painted them. I completely forgot I did that until looking at these photos. You'll also see a silver pinstripe on the car, it is just vinyl, something acquired from an autoparts store and applied. That was most likely the first vinyl I ever applied to a car, lots more since.
 
-{% picture  red/RedSuperBeetle-1.jpg --alt "1973 Volkswagen Super Beetle" %} 
-{% picture  red/RedSuperBeetle-2.jpg --alt "1973 Volkswagen Super Beetle" %} 
-{% picture  red/RedSuperBeetle-3.jpg --alt "1973 Volkswagen Super Beetle" %} 
-{% picture  red/RedSuperBeetle-4.jpg --alt "1973 Volkswagen Super Beetle" %} 
-{% picture  red/RedSuperBeetle-5.jpg --alt "1973 Volkswagen Super Beetle" %} 
-{% picture  red/RedSuperBeetle-6.jpg --alt "1973 Volkswagen Super Beetle" %} 
-{% picture  red/RedSuperBeetle-7.jpg --alt "1973 Volkswagen Super Beetle" %} 
-{% picture  red/RedSuperBeetle-8.jpg --alt "1973 Volkswagen Super Beetle" %} 
-{% picture  red/RedSuperBeetle-9.jpg --alt "1973 Volkswagen Super Beetle" %} 
-{% picture  red/RedSuperBeetle-10.jpg --alt "1973 Volkswagen Super Beetle" %} 
-{% picture  red/RedSuperBeetle-11.jpg --alt "1973 Volkswagen Super Beetle" %} 
+[ picture  red/RedSuperBeetle-1.jpg --alt "1973 Volkswagen Super Beetle" ]
+[ picture  red/RedSuperBeetle-2.jpg --alt "1973 Volkswagen Super Beetle" ] 
+[ picture  red/RedSuperBeetle-3.jpg --alt "1973 Volkswagen Super Beetle" ] 
+[ picture  red/RedSuperBeetle-4.jpg --alt "1973 Volkswagen Super Beetle" ] 
+[ picture  red/RedSuperBeetle-5.jpg --alt "1973 Volkswagen Super Beetle" ] 
+[ picture  red/RedSuperBeetle-6.jpg --alt "1973 Volkswagen Super Beetle" ] 
+[ picture  red/RedSuperBeetle-7.jpg --alt "1973 Volkswagen Super Beetle" ] 
+[ picture  red/RedSuperBeetle-8.jpg --alt "1973 Volkswagen Super Beetle" ] 
+[ picture  red/RedSuperBeetle-9.jpg --alt "1973 Volkswagen Super Beetle" ] 
+[ picture  red/RedSuperBeetle-10.jpg --alt "1973 Volkswagen Super Beetle" ] 
+[ picture  red/RedSuperBeetle-11.jpg --alt "1973 Volkswagen Super Beetle" ] 
