@@ -12,8 +12,8 @@ var documents = [{
     }, {
     "id": 2,
     "url": "/about",
-    "title": "About BicycleTips.com",
-    "body": "So you want to know about BicycleTips. com? You should read our story. Product ReviewsWe are always open to reviewing new products here on BicycleTips. com. If you have a product you would like us to review, please reach out using the form on this page. If a product is provided for review, we will be clear about who provided the product as to not cause confusion for our readers. Ride ReviewsWe post ride reviews from organized, and unorganized rides we partake in. If an organization would like to see their rides highlighted here on BicycleTips. com, please reach out using the form here on this page. "
+    "title": "About ProjectVW.com",
+    "body": "So you want to know about ProjectVW. com? You should read our story. If you’ve seen our 1973 Super Beetle, be sure to drop me a line! "
     }, {
     "id": 3,
     "url": "/categories",
