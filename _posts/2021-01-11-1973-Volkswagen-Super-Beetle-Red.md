@@ -7,6 +7,7 @@ image: red/RedSuperBeelte-9.jpg
 categories: ''
 author: chris
 comments: false
+featured: true
 ---
 Before the car was blue (painted in the summer of 1998 in Sedalia, Missouri), it was red.
 
