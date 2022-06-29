@@ -4,7 +4,7 @@ title: "ProjectVW.com - 1973 Volkswagen Super Beetle"
 description: "Have you seen my 1973 VW Super Beetle?"
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/logo.jpg'
-baseurl: ""
+baseurl: 
 google_analytics: 'UA-69145-34'
 disqus: 
 mailchimp-list: 
