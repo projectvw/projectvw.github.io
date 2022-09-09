@@ -25,6 +25,10 @@
 <lastmod>2022-06-28T09:03:10+00:00</lastmod>
 </url>
 <url>
+<loc>/find-my-first-car</loc>
+<lastmod>2022-09-09T09:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>/about</loc>
 </url>
 <url>
@@ -35,5 +39,8 @@
 </url>
 <url>
 <loc>/tags</loc>
+</url>
+<url>
+<loc>/page2/</loc>
 </url>
 </urlset>
