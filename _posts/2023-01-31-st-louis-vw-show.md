@@ -1,24 +1,68 @@
 ---
 layout: post
-title: St. Louis VW Show
-date: '2023-01-31T10:00:00+00:00'
-permalink: "/st-louis-vw-show"
-image: 2023/Show-1.jpg
+title: 1973 VW Super Beetle 133 2543 365
+date: '2023-02-28T23:00:00+00:00'
+permalink: "/vw-chassis-number-133-2543-365"
+image: 2023/133-2543-365.jpg
 categories: ''
 author: chris
 comments: false
 featured: true
 ---
-*This blog post was written by AI* 
+Details on chassis number 133 2543 365, pulled from the [JBugs VIN Decoder](https://www.jbugs.com/category/vw-vin.html)
 
-Bringing Back a Classic: My 1973 VW Super Beetle Adventure"
 
-In 1998, I had the opportunity to take my 1973 VW Super Beetle to a car show in St. Louis. This was a dream come true for me, as I had always been a fan of vintage vehicles and the VW Beetle was no exception. I had purchased my Super Beetle a few years prior and had been working tirelessly to restore it to its former glory.
+## 1973 Super Beetle
 
-The car show in St. Louis was an incredible experience. The atmosphere was electric, with the sound of engines revving and the smell of gasoline filling the air. I was surrounded by some of the most beautiful and well-preserved classic vehicles I had ever seen.
+Model: Manual Transmission (early 73):
+- Production: 8/72 - 10/72
+- Chassis: 133 2000 001 - 133 2212 117
+- Engine: 1600cc Dual Port
+- Manual Transmission Engine Number: AE 0 917 264 - AE 1 000 000
+- Front End: Ball Joint (Drum)
+- Rear End: I.R.S. (Drum)
+- Lug Pattern: 4x130
+- Voltage: 12 Volt
 
-My VW Super Beetle drew a lot of attention at the show. People were fascinated by the unique design and vintage charm of the car. They were also impressed by the amount of work I had put into restoring it. The bright blue paint job, combined with the chrome accents and polished wheels, made my VW Super Beetle a standout at the show.
+### Model: Manual Transmission NON-California:
+- (Non-Cal) Beetle Production: 10/72 - 7/73
+- (Non-Cal) Beetle Chassis: 133 2212 118 - 133 3200 000
+- (Non-Cal) Beetle Engine: 1600cc Dual Port
+- (Non-Cal) Beetle Manual Transmission Engine Number: AK 0 000 001 - AK 0 239 364
+- (Non-Cal) Beetle Front End: Ball Joint (Drum)
+- (Non-Cal) Beetle Rear End: I.R.S. (Drum)
+- (Non-Cal) Beetle Lug Pattern: 4x130
+- (Non-Cal) Beetle Voltage: 12 Volt
 
-After the car show in St. Louis, I continued to take my VW Super Beetle to other shows across the country. Everywhere I went, the car received a warm reception and was always a crowd favorite. The memories I made with my VW Super Beetle will stay with me forever.
+### Model: Manual Transmission California:
+- (Cal) Beetle Production: 10/72 - 7/73
+- (Cal) Beetle Chassis: 133 2212 118 - 133 3200 000
+- (Cal) Beetle Engine: 1600cc Dual Port
+- (Cal) Beetle Manual Transmission Engine Number: AH 0 033 404 - AH 0 101 888
+- (Cal) Beetle Front End: Ball Joint (Drum)
+- (Cal) Beetle Rear End: I.R.S. (Drum)
+- (Cal) Beetle Lug Pattern: 4x130
+- (Cal) Beetle Voltage: 12 Volt
 
-In conclusion, my 1973 VW Super Beetle is a true classic and a joy to own. Whether I'm cruising down the highway or showing it off at car shows, it never fails to bring a smile to my face. If you're a fan of vintage vehicles, I highly recommend checking out projectvw.com for more information on the VW Beetle and other classic cars.
+
+### 1973 Super Beetle Key Features:
+The Super Beetle has a McPherson strut front suspension. To make this major front suspension change, the Super Beetle features different front body sheet metal including front hood, fenders, apron and quarter panels. The front of the chassis is changed as well to accommodate the new suspension design. The body is the same as Standard Beetle from the "A" pillar back. The chassis is the same as the Standard Beetle from the framehead back. The bumpers, turn signals, headlights and most trim items such as the hood handle are the same as the Standard Beetle.
+
+### MAJOR BODY STYLE CHANGE.
+- Larger curved windshield.
+- Longer wiper arms and blades.
+- Shortened front hood to accommodate larger windshield.
+- Aluminum cowl molding added at body line between door jamb and hood.
+- Larger "elephant foot" tail light.
+- Front seats have wider, more round headrest.
+- Larger plastic air cleaner housing with paper element.
+- No oil drain plug on oil sump plate.
+- Hood emblem removed from top of hood.
+- Running board molding narrowed to 10mm.
+- Transmission mounts change for less driveline vibration.
+- Mid year, externally regulated alternator replaces the generator.
+- Special Edition "Sports Bug" offered.
+- Last year for thin channel bumpers.
+
+
+**(All of the above information is standard model information for US spec VW Beetles. VW was always changing the Beetle and often times did so in the midst of any given model year so it is common to see mis-matched components on any given model year.)
