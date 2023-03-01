@@ -11,6 +11,7 @@ featured: true
 ---
 Details on chassis number 133 2543 365, pulled from the [JBugs VIN Decoder](https://www.jbugs.com/category/vw-vin.html)
 
+We purchased the car in 1994 (maybe 1993?) in Fairfield, California. As far as I know, at the time the car was matching engine/chassis/transmission, but it had been repainted at some point prior to us acquiring it.
 
 ## 1973 Super Beetle
 
