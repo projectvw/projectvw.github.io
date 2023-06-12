@@ -8,7 +8,7 @@ var documents = [{
     "id": 1,
     "url": "/about",
     "title": "About ProjectVW.com",
-    "body": "So you want to know about ProjectVW. com? You should read our story. If you’ve seen our 1973 Super Beetle, be sure to drop me a line! "
+    "body": "Do you know Chris Hammond? So you want to know about ProjectVW. com? You should read our story. If you’ve seen our 1973 Super Beetle, be sure to drop me a line! "
     }, {
     "id": 2,
     "url": "/categories",
