@@ -1,25 +1,74 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+		<!-- Google tag (gtag.js) -->
+		<script
+			async
+			src="https://www.googletagmanager.com/gtag/js?id=UA-69145-34"
+		></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			gtag("js", new Date());
+
+			gtag("config", "UA-69145-34");
+		</script>
+
 		<meta charset="utf-8" />
 		<meta
 			name="viewport"
 			content="width=device-width, initial-scale=1, shrink-to-fit=no"
 		/>
 
-		<link rel="icon" href="/assets/images/logo.png" />
+		<link rel="icon" href="/assets/favicon.ico" />
 
-		<title>Home - ProjectVW.com - 1973 Volkswagen Super Beetle</title>
-		<meta property="og:url" content="/" />
-		<meta property="og:image" content="" />
-		<meta property="og:type" content="article" />
+		<title>Home | ProjectVW.com</title>
+
+		<!-- Begin Jekyll SEO tag v2.8.0 -->
+		<title>Home | ProjectVW.com - 1973 Volkswagen Super Beetle</title>
+		<meta name="generator" content="Jekyll v4.3.2" />
 		<meta property="og:title" content="Home" />
-		<meta property="og:description" content="" />
+		<meta property="og:locale" content="en_US" />
+		<meta name="description" content="Have you seen my 1973 VW Super Beetle?" />
+		<meta
+			property="og:description"
+			content="Have you seen my 1973 VW Super Beetle?"
+		/>
+		<link rel="canonical" href="https://www.projectvw.com/" />
+		<meta property="og:url" content="https://www.projectvw.com/" />
+		<meta
+			property="og:site_name"
+			content="ProjectVW.com - 1973 Volkswagen Super Beetle"
+		/>
+		<meta property="og:type" content="website" />
+		<link rel="next" href="https://www.projectvw.com/page2/" />
+		<meta name="twitter:card" content="summary" />
+		<meta property="twitter:title" content="Home" />
+		<script type="application/ld+json">
+			{
+				"@context": "https://schema.org",
+				"@type": "WebSite",
+				"description": "Have you seen my 1973 VW Super Beetle?",
+				"headline": "Home",
+				"name": "ProjectVW.com - 1973 Volkswagen Super Beetle",
+				"publisher": {
+					"@type": "Organization",
+					"logo": {
+						"@type": "ImageObject",
+						"url": "https://www.projectvw.com/assets/images/logo.jpg"
+					}
+				},
+				"url": "https://www.projectvw.com/"
+			}
+		</script>
+		<!-- End Jekyll SEO tag -->
 
 		<link
 			rel="stylesheet"
-			href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-			integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+			href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+			integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N"
 			crossorigin="anonymous"
 		/>
 
@@ -29,31 +78,6 @@
 
 		<script src="/assets/js/jquery.min.js"></script>
 	</head>
-
-	<!-- change your GA id in _config.yml -->
-	<script>
-		(function (i, s, o, g, r, a, m) {
-			i["GoogleAnalyticsObject"] = r;
-			(i[r] =
-				i[r] ||
-				function () {
-					(i[r].q = i[r].q || []).push(arguments);
-				}),
-				(i[r].l = 1 * new Date());
-			(a = s.createElement(o)), (m = s.getElementsByTagName(o)[0]);
-			a.async = 1;
-			a.src = g;
-			m.parentNode.insertBefore(a, m);
-		})(
-			window,
-			document,
-			"script",
-			"//www.google-analytics.com/analytics.js",
-			"ga"
-		);
-		ga("create", "UA-69145-34", "auto");
-		ga("send", "pageview");
-	</script>
 
 	<body class="layout-default">
 		<!-- defer loading of font and font awesome -->
@@ -161,10 +185,14 @@
 			<div class="container">
 				<!-- Site Title
 ================================================== -->
-				<div class="mainheading">
-					<h1 class="sitetitle">ProjectVW.com</h1>
-					<p class="lead">Have you seen my 1973 VW Super Beetle?</p>
-				</div>
+				<!--
+<div class="mainheading">
+    <h1 class="sitetitle">ProjectVW.com</h1>
+    <p class="lead">
+        Have you seen my 1973 VW Super Beetle?
+    </p>
+</div>
+-->
 
 				<!-- Content
 ================================================== -->
@@ -190,11 +218,10 @@
 															src="/assets/images_out/2023/redub-800-bffdd412f.jpg"
 															alt="VeeDub ReDub"
 															srcset="
-																/assets/images_out/2023/redub-200-bffdd412f.jpg   200w,
 																/assets/images_out/2023/redub-400-bffdd412f.jpg   400w,
+																/assets/images_out/2023/redub-600-bffdd412f.jpg   600w,
 																/assets/images_out/2023/redub-800-bffdd412f.jpg   800w,
-																/assets/images_out/2023/redub-1600-bffdd412f.jpg 1600w,
-																/assets/images_out/2023/redub-2000-bffdd412f.jpg 2000w
+																/assets/images_out/2023/redub-1000-bffdd412f.jpg 1000w
 															"
 														/>
 													</a>
@@ -270,185 +297,12 @@
 										<div class="col-12 col-md-12 col-lg-5 pr-lg-0">
 											<div class="h-100">
 												<div class="wrapthumbnail">
-													<a href="/vw-chassis-number-133-2543-365">
-														<img
-															class="featured-box-img-cover lazyimg"
-															src="/assets/images_out/2023/133-2543-365-640-70ee5c7e4.jpg"
-															alt="1973 VW Super Beetle 133 2543 365"
-															srcset="
-																/assets/images_out/2023/133-2543-365-200-70ee5c7e4.jpg 200w,
-																/assets/images_out/2023/133-2543-365-400-70ee5c7e4.jpg 400w,
-																/assets/images_out/2023/133-2543-365-640-70ee5c7e4.jpg 640w
-															"
-														/>
-													</a>
-												</div>
-											</div>
-										</div>
-										<div class="col-12 col-md-12 col-lg-7">
-											<div class="h-100 card-group">
-												<div class="card">
-													<div class="card-body">
-														<h2 class="card-title">
-															<a
-																class="text-dark"
-																href="/vw-chassis-number-133-2543-365"
-																>1973 VW Super Beetle 133 2543 365</a
-															>
-														</h2>
-
-														<h4 class="card-text">
-															Details on chassis number 133 2543 365, pulled
-															from the JBugs VIN Decoder
-														</h4>
-													</div>
-													<div class="card-footer b-0 bg-white mt-auto">
-														<div class="wrapfooter">
-															<span class="meta-footer-thumb">
-																<img
-																	class="author-thumb"
-																	src="https://www.gravatar.com/avatar/bff097b7cc348bebce39ee1c7694d125?s=250&d=mm&r=x"
-																	alt="Chris Hammond"
-																/>
-															</span>
-															<span class="author-meta">
-																<span class="post-name"
-																	><a
-																		target="_blank"
-																		href="https://chrishammond.com"
-																		>Chris Hammond</a
-																	></span
-																><br />
-															</span>
-
-															<span class="post-date">28 Feb 2023</span>
-
-															<span class="post-read-more"
-																><a
-																	href="//vw-chassis-number-133-2543-365"
-																	title="Read Story"
-																	><svg
-																		class="svgIcon-use"
-																		width="25"
-																		height="25"
-																		viewbox="0 0 25 25"
-																	>
-																		<path
-																			d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-																			fill-rule="evenodd"
-																		></path></svg></a
-															></span>
-															<div class="clearfix"></div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-							<!-- end post -->
-
-							<!-- begin post -->
-
-							<div class="col-md-6 mb-30px">
-								<div class="listfeaturedtag h-100">
-									<div class="row h-100">
-										<div class="col-12 col-md-12 col-lg-5 pr-lg-0">
-											<div class="h-100">
-												<div class="wrapthumbnail">
-													<a href="/vw-jacked-up">
-														<img
-															class="featured-box-img-cover lazyimg"
-															src="/assets/images_out/2022/jackedup-800-1bdaba3d4.jpg"
-															alt="VW Jacked Up Graphic"
-															srcset="
-																/assets/images_out/2022/jackedup-200-1bdaba3d4.jpg   200w,
-																/assets/images_out/2022/jackedup-400-1bdaba3d4.jpg   400w,
-																/assets/images_out/2022/jackedup-800-1bdaba3d4.jpg   800w,
-																/assets/images_out/2022/jackedup-1028-1bdaba3d4.jpg 1028w
-															"
-														/>
-													</a>
-												</div>
-											</div>
-										</div>
-										<div class="col-12 col-md-12 col-lg-7">
-											<div class="h-100 card-group">
-												<div class="card">
-													<div class="card-body">
-														<h2 class="card-title">
-															<a class="text-dark" href="/vw-jacked-up"
-																>VW Jacked Up Graphic</a
-															>
-														</h2>
-
-														<h4 class="card-text">
-															I found this photo while going through old files
-															(I never throw anything away, or delete). After a
-															quick google search, I can’t find it...
-														</h4>
-													</div>
-													<div class="card-footer b-0 bg-white mt-auto">
-														<div class="wrapfooter">
-															<span class="meta-footer-thumb">
-																<img
-																	class="author-thumb"
-																	src="https://www.gravatar.com/avatar/bff097b7cc348bebce39ee1c7694d125?s=250&d=mm&r=x"
-																	alt="Chris Hammond"
-																/>
-															</span>
-															<span class="author-meta">
-																<span class="post-name"
-																	><a
-																		target="_blank"
-																		href="https://chrishammond.com"
-																		>Chris Hammond</a
-																	></span
-																><br />
-															</span>
-
-															<span class="post-date">09 Sep 2022</span>
-
-															<span class="post-read-more"
-																><a href="//vw-jacked-up" title="Read Story"
-																	><svg
-																		class="svgIcon-use"
-																		width="25"
-																		height="25"
-																		viewbox="0 0 25 25"
-																	>
-																		<path
-																			d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-																			fill-rule="evenodd"
-																		></path></svg></a
-															></span>
-															<div class="clearfix"></div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-							<!-- end post -->
-
-							<!-- begin post -->
-
-							<div class="col-md-6 mb-30px">
-								<div class="listfeaturedtag h-100">
-									<div class="row h-100">
-										<div class="col-12 col-md-12 col-lg-5 pr-lg-0">
-											<div class="h-100">
-												<div class="wrapthumbnail">
 													<a href="/find-my-first-car">
 														<img
 															class="featured-box-img-cover lazyimg"
 															src="/assets/images_out/2022/frntlowsid-300-7ea98ba1b.jpg"
 															alt="Find my first car"
 															srcset="
-																/assets/images_out/2022/frntlowsid-200-7ea98ba1b.jpg 200w,
 																/assets/images_out/2022/frntlowsid-300-7ea98ba1b.jpg 300w
 															"
 														/>
@@ -533,7 +387,6 @@
 															src="/assets/images_out/2022/fs-ext1-400-2e604419f.jpg"
 															alt="Help me find my VW Super Beetle"
 															srcset="
-																/assets/images_out/2022/fs-ext1-200-2e604419f.jpg 200w,
 																/assets/images_out/2022/fs-ext1-400-2e604419f.jpg 400w
 															"
 														/>
@@ -615,8 +468,8 @@
 															src="/assets/images_out/2022/Wide-Super-Beetle/Wide-Super-Beetle-2-640-68f950238.jpg"
 															alt="1973 Volkswagen Wide Super Beetle"
 															srcset="
-																/assets/images_out/2022/Wide-Super-Beetle/Wide-Super-Beetle-2-200-68f950238.jpg 200w,
 																/assets/images_out/2022/Wide-Super-Beetle/Wide-Super-Beetle-2-400-68f950238.jpg 400w,
+																/assets/images_out/2022/Wide-Super-Beetle/Wide-Super-Beetle-2-600-68f950238.jpg 600w,
 																/assets/images_out/2022/Wide-Super-Beetle/Wide-Super-Beetle-2-640-68f950238.jpg 640w
 															"
 														/>
@@ -686,183 +539,6 @@
 								</div>
 							</div>
 							<!-- end post -->
-
-							<!-- begin post -->
-
-							<div class="col-md-6 mb-30px">
-								<div class="listfeaturedtag h-100">
-									<div class="row h-100">
-										<div class="col-12 col-md-12 col-lg-5 pr-lg-0">
-											<div class="h-100">
-												<div class="wrapthumbnail">
-													<a href="/driving-to-graduation">
-														<img
-															class="featured-box-img-cover lazyimg"
-															src="/assets/images_out/GradVideo-800-8d85b3d03.jpg"
-															alt="1973 Volkswagen Super Beetle Driving to Graduation"
-															srcset="
-																/assets/images_out/GradVideo-200-8d85b3d03.jpg   200w,
-																/assets/images_out/GradVideo-400-8d85b3d03.jpg   400w,
-																/assets/images_out/GradVideo-800-8d85b3d03.jpg   800w,
-																/assets/images_out/GradVideo-1600-8d85b3d03.jpg 1600w,
-																/assets/images_out/GradVideo-1758-8d85b3d03.jpg 1758w
-															"
-														/>
-													</a>
-												</div>
-											</div>
-										</div>
-										<div class="col-12 col-md-12 col-lg-7">
-											<div class="h-100 card-group">
-												<div class="card">
-													<div class="card-body">
-														<h2 class="card-title">
-															<a class="text-dark" href="/driving-to-graduation"
-																>1973 Volkswagen Super Beetle Driving to
-																Graduation</a
-															>
-														</h2>
-
-														<h4 class="card-text">
-															Video of the car as I headed off to my high school
-															graduation, June 1995..
-														</h4>
-													</div>
-													<div class="card-footer b-0 bg-white mt-auto">
-														<div class="wrapfooter">
-															<span class="meta-footer-thumb">
-																<img
-																	class="author-thumb"
-																	src="https://www.gravatar.com/avatar/bff097b7cc348bebce39ee1c7694d125?s=250&d=mm&r=x"
-																	alt="Chris Hammond"
-																/>
-															</span>
-															<span class="author-meta">
-																<span class="post-name"
-																	><a
-																		target="_blank"
-																		href="https://chrishammond.com"
-																		>Chris Hammond</a
-																	></span
-																><br />
-															</span>
-
-															<span class="post-date">29 Jun 2021</span>
-
-															<span class="post-read-more"
-																><a
-																	href="//driving-to-graduation"
-																	title="Read Story"
-																	><svg
-																		class="svgIcon-use"
-																		width="25"
-																		height="25"
-																		viewbox="0 0 25 25"
-																	>
-																		<path
-																			d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-																			fill-rule="evenodd"
-																		></path></svg></a
-															></span>
-															<div class="clearfix"></div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-							<!-- end post -->
-
-							<!-- begin post -->
-
-							<div class="col-md-6 mb-30px">
-								<div class="listfeaturedtag h-100">
-									<div class="row h-100">
-										<div class="col-12 col-md-12 col-lg-5 pr-lg-0">
-											<div class="h-100">
-												<div class="wrapthumbnail">
-													<a href="/1973-volkswagen-super-beetle-red">
-														<img
-															class="featured-box-img-cover lazyimg"
-															src="/assets/images_out/red/RedSuperBeetle-9-800-4b9a6fbbf.jpg"
-															alt="1973 Volkswagen Super Beetle Red"
-															srcset="
-																/assets/images_out/red/RedSuperBeetle-9-200-4b9a6fbbf.jpg   200w,
-																/assets/images_out/red/RedSuperBeetle-9-400-4b9a6fbbf.jpg   400w,
-																/assets/images_out/red/RedSuperBeetle-9-800-4b9a6fbbf.jpg   800w,
-																/assets/images_out/red/RedSuperBeetle-9-1600-4b9a6fbbf.jpg 1600w,
-																/assets/images_out/red/RedSuperBeetle-9-2000-4b9a6fbbf.jpg 2000w
-															"
-														/>
-													</a>
-												</div>
-											</div>
-										</div>
-										<div class="col-12 col-md-12 col-lg-7">
-											<div class="h-100 card-group">
-												<div class="card">
-													<div class="card-body">
-														<h2 class="card-title">
-															<a
-																class="text-dark"
-																href="/1973-volkswagen-super-beetle-red"
-																>1973 Volkswagen Super Beetle Red</a
-															>
-														</h2>
-
-														<h4 class="card-text">
-															Before the car was blue (painted in the summer of
-															1998 in Sedalia, Missouri), it was red.
-														</h4>
-													</div>
-													<div class="card-footer b-0 bg-white mt-auto">
-														<div class="wrapfooter">
-															<span class="meta-footer-thumb">
-																<img
-																	class="author-thumb"
-																	src="https://www.gravatar.com/avatar/bff097b7cc348bebce39ee1c7694d125?s=250&d=mm&r=x"
-																	alt="Chris Hammond"
-																/>
-															</span>
-															<span class="author-meta">
-																<span class="post-name"
-																	><a
-																		target="_blank"
-																		href="https://chrishammond.com"
-																		>Chris Hammond</a
-																	></span
-																><br />
-															</span>
-
-															<span class="post-date">11 Jan 2021</span>
-
-															<span class="post-read-more"
-																><a
-																	href="//1973-volkswagen-super-beetle-red"
-																	title="Read Story"
-																	><svg
-																		class="svgIcon-use"
-																		width="25"
-																		height="25"
-																		viewbox="0 0 25 25"
-																	>
-																		<path
-																			d="M19 6c0-1.1-.9-2-2-2H8c-1.1 0-2 .9-2 2v14.66h.012c.01.103.045.204.12.285a.5.5 0 0 0 .706.03L12.5 16.85l5.662 4.126a.508.508 0 0 0 .708-.03.5.5 0 0 0 .118-.285H19V6zm-6.838 9.97L7 19.636V6c0-.55.45-1 1-1h9c.55 0 1 .45 1 1v13.637l-5.162-3.668a.49.49 0 0 0-.676 0z"
-																			fill-rule="evenodd"
-																		></path></svg></a
-															></span>
-															<div class="clearfix"></div>
-														</div>
-													</div>
-												</div>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-							<!-- end post -->
 						</div>
 					</section>
 
@@ -885,11 +561,10 @@
 												src="/assets/images_out/2023/redub-800-bffdd412f.jpg"
 												alt="VeeDub ReDub"
 												srcset="
-													/assets/images_out/2023/redub-200-bffdd412f.jpg   200w,
 													/assets/images_out/2023/redub-400-bffdd412f.jpg   400w,
+													/assets/images_out/2023/redub-600-bffdd412f.jpg   600w,
 													/assets/images_out/2023/redub-800-bffdd412f.jpg   800w,
-													/assets/images_out/2023/redub-1600-bffdd412f.jpg 1600w,
-													/assets/images_out/2023/redub-2000-bffdd412f.jpg 2000w
+													/assets/images_out/2023/redub-1000-bffdd412f.jpg 1000w
 												"
 											/>
 										</a>
@@ -954,8 +629,8 @@
 												src="/assets/images_out/2023/133-2543-365-640-70ee5c7e4.jpg"
 												alt="1973 VW Super Beetle 133 2543 365"
 												srcset="
-													/assets/images_out/2023/133-2543-365-200-70ee5c7e4.jpg 200w,
 													/assets/images_out/2023/133-2543-365-400-70ee5c7e4.jpg 400w,
+													/assets/images_out/2023/133-2543-365-600-70ee5c7e4.jpg 600w,
 													/assets/images_out/2023/133-2543-365-640-70ee5c7e4.jpg 640w
 												"
 											/>
@@ -1026,10 +701,10 @@
 												src="/assets/images_out/2022/jackedup-800-1bdaba3d4.jpg"
 												alt="VW Jacked Up Graphic"
 												srcset="
-													/assets/images_out/2022/jackedup-200-1bdaba3d4.jpg   200w,
 													/assets/images_out/2022/jackedup-400-1bdaba3d4.jpg   400w,
+													/assets/images_out/2022/jackedup-600-1bdaba3d4.jpg   600w,
 													/assets/images_out/2022/jackedup-800-1bdaba3d4.jpg   800w,
-													/assets/images_out/2022/jackedup-1028-1bdaba3d4.jpg 1028w
+													/assets/images_out/2022/jackedup-1000-1bdaba3d4.jpg 1000w
 												"
 											/>
 										</a>
@@ -1096,7 +771,6 @@
 												src="/assets/images_out/2022/frntlowsid-300-7ea98ba1b.jpg"
 												alt="Find my first car"
 												srcset="
-													/assets/images_out/2022/frntlowsid-200-7ea98ba1b.jpg 200w,
 													/assets/images_out/2022/frntlowsid-300-7ea98ba1b.jpg 300w
 												"
 											/>
@@ -1164,7 +838,6 @@
 												src="/assets/images_out/2022/fs-ext1-400-2e604419f.jpg"
 												alt="Help me find my VW Super Beetle"
 												srcset="
-													/assets/images_out/2022/fs-ext1-200-2e604419f.jpg 200w,
 													/assets/images_out/2022/fs-ext1-400-2e604419f.jpg 400w
 												"
 											/>
@@ -1231,8 +904,8 @@
 												src="/assets/images_out/2022/Wide-Super-Beetle/Wide-Super-Beetle-2-640-68f950238.jpg"
 												alt="1973 Volkswagen Wide Super Beetle"
 												srcset="
-													/assets/images_out/2022/Wide-Super-Beetle/Wide-Super-Beetle-2-200-68f950238.jpg 200w,
 													/assets/images_out/2022/Wide-Super-Beetle/Wide-Super-Beetle-2-400-68f950238.jpg 400w,
+													/assets/images_out/2022/Wide-Super-Beetle/Wide-Super-Beetle-2-600-68f950238.jpg 600w,
 													/assets/images_out/2022/Wide-Super-Beetle/Wide-Super-Beetle-2-640-68f950238.jpg 640w
 												"
 											/>
@@ -1319,7 +992,7 @@
 							class="d-md-flex align-items-center justify-content-center h-100"
 						>
 							<h2 class="d-md-block align-self-center py-1 font-weight-light">
-								Explore ProjectVW <span class="d-none d-md-inline">→</span>
+								Explore <span class="d-none d-md-inline">→</span>
 							</h2>
 						</div>
 					</div>
@@ -1336,9 +1009,10 @@
 							Copyright © 2023 ProjectVW.com
 						</div>
 						<div class="col-md-6 col-sm-6 text-center text-lg-right">
+							Forked from
 							<a target="_blank" href="https://www.chrishammond.com/"
-								>Another site from Chris Hammond</a
-							>
+								>Chris Hammond</a
+							>'s <a href="https://jekyllexample.com">JekyllExample.com</a>.
 						</div>
 					</div>
 				</div>
@@ -1358,8 +1032,13 @@
 		></script>
 
 		<script
-			src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js"
-			integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k"
+			src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+			integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+			crossorigin="anonymous"
+		></script>
+		<script
+			src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+			integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
 			crossorigin="anonymous"
 		></script>
 
