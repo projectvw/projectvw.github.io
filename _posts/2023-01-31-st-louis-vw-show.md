@@ -7,7 +7,7 @@ image: 2023/133-2543-365.jpg
 categories: ''
 author: chris
 comments: false
-featured: true
+featured: false
 ---
 Details on chassis number 133 2543 365, pulled from the [JBugs VIN Decoder](https://www.jbugs.com/category/vw-vin.html)
 
