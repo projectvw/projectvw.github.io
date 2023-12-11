@@ -8,6 +8,7 @@ categories: ''
 author: chris
 comments: false
 featured: true
+keywords: "vw, beetle, super beetle, find my car, first car, superbeetle, volkswagen"
 ---
 I'll offer up a $250 cash reward for someone who can put me in touch with someone that can be verified as the owner of my first car, a 1973 VW Super Beetle, chassis number 1332543365.
 

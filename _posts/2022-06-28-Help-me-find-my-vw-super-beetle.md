@@ -8,6 +8,7 @@ categories: ''
 author: chris
 comments: false
 featured: true
+keywords: "vw, beetle, super beetle, find my car, first car, superbeetle, volkswagen"
 ---
 So I've spent the last 15 years looking for this car, haven't had much luck.
 

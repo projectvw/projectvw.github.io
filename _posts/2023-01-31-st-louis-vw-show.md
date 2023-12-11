@@ -8,6 +8,7 @@ categories: ''
 author: chris
 comments: false
 featured: false
+keywords: "vw, beetle, super beetle, 1973, 133 2543 365, show, carshow"
 ---
 Details on chassis number 133 2543 365, pulled from the [JBugs VIN Decoder](https://www.jbugs.com/category/vw-vin.html)
 

@@ -8,6 +8,7 @@ categories: ''
 author: chris
 comments: false
 featured: true
+keywords: "vw, beetle, super beetle, find my car, first car, superbeetle, volkswagen, wide"
 ---
 When my dad and I planned out the overhaul of the 1973 Super Beetle I really wanted to go with a wide fender look for the car. We ended up ordering new fenders from Innovations in Fiberglass some time in 1998.
 
