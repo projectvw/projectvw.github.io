@@ -7,7 +7,7 @@ on:
 
 jobs:
   build-deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04 
     steps:
     - name: Reusable Jekyll Build and Deploy
       uses: ChrisHammond/christoc-jekyll-builddeploy@v0.0.8
