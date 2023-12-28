@@ -5,13 +5,12 @@ on:
     branches:
       - dev
 
+
 jobs:
-  build-deploy:
-    runs-on: ubuntu-latest
-    steps:
-    - name: Reusable Jekyll Build and Deploy
-      uses: ChrisHammond/christoc-jekyll-builddeploy@v0.0.6
+  call-reusable-workflow:
+      uses: ChrisHammond/christoc-jekyll-builddeploy@v0.0.7
       with:
         ruby_version: '3.2.2'
+        deploy_branch: 'main'
         jekyll_build_opts: ''
         github_token: ${{ secrets.GITHUB_TOKEN }}
