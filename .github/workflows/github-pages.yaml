@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Reusable Jekyll Build and Deploy
-      uses: https://github.com/ChrisHammond/christoc-jekyll-builddeploy/.github/actions/build-and-deploy-jekyll@v0.0.1
+      uses: ChrisHammond/christoc-jekyll-builddeploy@v0.0.1
       with:
         ruby_version: '3.2.2'
         jekyll_build_opts: ''
