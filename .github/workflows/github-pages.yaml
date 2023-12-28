@@ -14,3 +14,4 @@ jobs:
       with:
         ruby_version: '3.2.2'
         jekyll_build_opts: ''
+        github_token: ${{ secrets.GITHUB_TOKEN }}
