@@ -7,14 +7,13 @@ logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/logo.jpg'
 baseurl: 
 google_analytics: 'G-5V10Z3380G'
-
 # disqus: 
 mailchimp-list: 
 include: ["_pages"]
 permalink: /:title/
 url: 'https://www.projectvw.com'
 
-templatemessage: 'Forked from <a target="_blank" href="https://www.chrishammond.com/">Chris Hammond</a>''s <a href="https://jekyllexample.com">JekyllExample.com</a>.'
+templatemessage: 'Forked from <a  href="https://www.chrishammond.com/">Chris Hammond</a>''s <a href="https://jekyllexample.com">jekyllexample.com</a>.'
 
 # Authors
 authors:
@@ -26,7 +25,8 @@ authors:
     web: https://chrishammond.com
     twitter: https://twitter.com/projectvw
     twitterhandle: projectvw
-    description: "Founder of ProjectVW.com. Read more at ChrisHammond.com" 
+    description: "Founder of ProjectVW.com. Read more at <a href=\"https://www.chrishammond.com\" target=_blank>ChrisHammond.com</a>" 
+   
 
 # Plugins
 plugins:
@@ -83,6 +83,16 @@ picture:
         height: "300"
       source_default:
         width: "300"
+
+
+defaults:
+  - scope:
+      path: ""  # An empty string here means all files
+      type: "posts"
+    values:
+      author: "chris"
+
+
 
 # exclude:
 #  - /assets/images/*

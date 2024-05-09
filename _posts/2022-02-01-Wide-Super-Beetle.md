@@ -4,10 +4,10 @@ title: 1973 Volkswagen Wide Super Beetle
 date: '2022-02-01T09:03:10+00:00'
 permalink: "/wide-super-beetle"
 image: 2022/Wide-Super-Beetle/Wide-Super-Beetle-2.jpg
-categories: ''
+categories: [ vw, superbeetle ]
 author: chris
 comments: false
-featured: true
+featured: false
 keywords: "vw, beetle, super beetle, find my car, first car, superbeetle, volkswagen, wide"
 ---
 When my dad and I planned out the overhaul of the 1973 Super Beetle I really wanted to go with a wide fender look for the car. We ended up ordering new fenders from Innovations in Fiberglass some time in 1998.

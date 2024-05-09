@@ -4,10 +4,10 @@ title: Help me find my VW Super Beetle
 date: '2022-06-28T09:03:10+00:00'
 permalink: "/find-my-vw"
 image: 2022/fs-ext1.jpg
-categories: ''
+categories: [ vw, superbeetle ]
 author: chris
 comments: false
-featured: true
+featured: false
 keywords: "vw, beetle, super beetle, find my car, first car, superbeetle, volkswagen"
 ---
 So I've spent the last 15 years looking for this car, haven't had much luck.
@@ -16,7 +16,7 @@ I sold the car in 2001 on Ebay, a family out of Alton, Illinois purchased it. I 
 
 That's the last I've been able to find anything about the car. 
 
-Can you help me find it? [Contact Chris](https://www.chrishammond.com/Contact)
+Can you help me find it? [Contact Chris Hammond](https://www.chrishammond.com/Contact)
 
 Chassis Number: 1332543365
 
