@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VW Junkyard in Pennsylvania 
-date: '2023-08-26T08:00:00+00:00'
+date: '2024-05-08T23:00:00+00:00'
 permalink: "/vwjunkyard"
 image: 2024/309autosalvage.jpg
 categories: [ vw, beetle ]
