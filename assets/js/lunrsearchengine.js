@@ -18,7 +18,7 @@ var documents = [{
     "id": 3,
     "url": "https://www.projectvw.com/redirects.json",
     "title": "",
-    "body": "{} "
+    "body": "{“/tags”:”https://www. projectvw. com/category”} "
     }, {
     "id": 4,
     "url": "https://www.projectvw.com/robots.txt",
