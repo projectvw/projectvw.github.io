@@ -1,6 +1,7 @@
 ---
 layout: post
 title: VW Junkyard in Pennsylvania 
+description: "A video from a VW Junkyard in Pennsylvania, I went through this video looking for my old car"
 date: '2024-05-08T23:00:00+00:00'
 permalink: "/vwjunkyard"
 image: 2024/309autosalvage.jpg

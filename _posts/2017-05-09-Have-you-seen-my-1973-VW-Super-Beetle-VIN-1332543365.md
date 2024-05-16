@@ -3,6 +3,7 @@ layout: post
 title: Have you seen my 1973 VW Super Beetle? VIN# 1332543365
 description: "I am on the hunt for my first car, a 1973 VW Super Beetle, last known to have travelled to Fort Drum in New York."
 date: '2017-05-09T00:19:07+00:00'
+last_modified_at: '2024-05-16T08:09:43+00:00'
 permalink: "/have-you-seen-my-1973-vw-super-beetle-vin-1332543365"
 image: PSIDE.jpg
 categories: [ vw, superbeetle ]

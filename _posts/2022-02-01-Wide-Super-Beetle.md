@@ -2,6 +2,7 @@
 layout: post
 title: 1973 Volkswagen Wide Super Beetle 
 date: '2022-02-01T09:03:10+00:00'
+last_modified_at: '2024-05-16T08:06:43+00:00'
 permalink: "/wide-super-beetle"
 image: 2022/Wide-Super-Beetle/Wide-Super-Beetle-2.jpg
 categories: [ vw, superbeetle ]
