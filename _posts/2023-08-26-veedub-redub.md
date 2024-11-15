@@ -1,6 +1,7 @@
 ---
 layout: post
 title: VeeDub ReDub
+description: "A simple blog post on a MK7 powered VW Beetle"
 date: '2023-08-26T08:00:00+00:00'
 permalink: "/redub"
 image: 2023/redub.jpg

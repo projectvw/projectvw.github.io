@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1973 VW Super Beetle 133 2543 365
-description: ""
+description: "Some details around super beetles and their various options"
 date: '2023-02-28T23:00:00+00:00'
 permalink: "/vw-chassis-number-133-2543-365"
 image: 2023/133-2543-365.jpg

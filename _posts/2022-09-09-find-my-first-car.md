@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Find my first car
+description: "Some details about my 1973 Super Beetle to help me find my first car!"
 date: '2022-09-9T09:00:00+00:00'
 permalink: "/find-my-first-car"
 image: 2022/frntlowsid.jpg
