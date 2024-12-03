@@ -2,7 +2,7 @@
 layout: post
 title: 1973 Volkswagen Super Beetle Red
 description: "Photos of my 1973 Super Beetle back when it was red! We purchased this car in 1993 or 1994 in Northern California"
-date: '2021-1-11T00:03:10+00:00'
+date: '2021-01-11T00:03:10+00:00'
 last_modified_at: '2024-05-16T08:05:43+00:00'
 permalink: "/1973-volkswagen-super-beetle-red"
 image: red/RedSuperBeetle-9.jpg
